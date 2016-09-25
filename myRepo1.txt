@@ -1,11 +1,4 @@
 file from repo
 second change
 third change
-<<<<<<< HEAD
-repo2
-
-=======
-4 change
-5
-repo 11
->>>>>>> 31c369cfb6fa3461dd7607a46eaf139a94fd0dfc
+111
